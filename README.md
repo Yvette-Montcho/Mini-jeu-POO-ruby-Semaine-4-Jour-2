@@ -399,3 +399,5 @@ Ce projet constitue donc une bonne introduction pratique à la POO en Ruby.
 ## Auteur
 
 Projet réalisé dans le cadre d’un exercice de Programmation Orientée Objet en Ruby.
+Formation Fullstack Web avec ETP4Africa
+

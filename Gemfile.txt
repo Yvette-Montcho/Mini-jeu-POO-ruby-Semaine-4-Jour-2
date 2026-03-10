@@ -1,0 +1,4 @@
+
+source "https://rubygems.org" # On indique à Bundler la source officielle des gems Ruby.
+
+gem "pry" # On ajoute la gem pry pour pouvoir déboguer et tester facilement le programme.
